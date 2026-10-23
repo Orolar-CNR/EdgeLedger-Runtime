@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Databases & Local state
+*.db
+*.sqlite
+*.sqlite3
+*.db-wal
+*.db-shm
+
+# IDE & OS files
+.DS_Store
+.idea/
+.vscode/
+
+# Build artifacts / Temporary files
+build/
+dist/
+*.egg-info/
+tmp/
+temp/
+*.log

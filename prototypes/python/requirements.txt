@@ -1,0 +1,5 @@
+# EdgeLedger Runtime — Python PoC Dependencies
+#
+# Note: Phase 1 Python PoC uses ONLY the Python Standard Library.
+# No external third-party dependencies (such as xxhash, pytest, etc.) are required.
+# Automated tests run via standard library `unittest`.
